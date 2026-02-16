@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Node (if you later add packages)
+node_modules/
+
+# Editor
+.vscode/
+*.swp
+
+# Archives and backups
+*.zip
